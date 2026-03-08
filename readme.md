@@ -10,3 +10,13 @@
 Two types:
 1.Functional Requirement
 2.Non-functional requirements
+
+**Latency**
+Time to complete single task
+**Throughput**
+Total tasks completed per second/minute
+
+**Concurrent user*
+How many users can use the system simultaneously
+
+concurrent user=Peak Request per second * Avg.Session Duration in seconds
